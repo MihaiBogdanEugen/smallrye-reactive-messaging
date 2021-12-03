@@ -20,10 +20,10 @@
 13000-13999 =
 
 
-# 
-14000-14099 = 
-14100-14199 = 
-14200-14299 = 
+# AWS SQS (smallrye-reactive-messaging-aws-sqs)
+14000-14099 = exceptions
+14100-14199 = messaging
+14200-14299 = logging
 
 # 
 14300-14399 = 
@@ -90,7 +90,6 @@
 18400-18499 = messaging
 18500-18599 = logging
 
-# AWS SQS (smallrye-reactive-messaging-aws-sqs)
 18600-18699
 18700-18799
 18800-18899
