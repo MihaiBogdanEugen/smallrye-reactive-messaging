@@ -90,6 +90,7 @@
 18400-18499 = messaging
 18500-18599 = logging
 
+# AWS SQS (smallrye-reactive-messaging-aws-sqs)
 18600-18699
 18700-18799
 18800-18899
